@@ -27,7 +27,7 @@ No guardar aquí nada más.
 
 - `index.html`: etiquetas de vista previa y salto a `/exec`. Si cambia el
   ID de la implementación publicada, actualizarlo aquí (dos lugares).
-- `vista-previa.png` (1200×630): símbolo sobre el fondo de marca #07272D,
+- `vista-previa.png` (1200×630): símbolo de Alianza Team sobre el fondo de marca #07272D,
   para que se vean las tres gotas.
 
 WhatsApp guarda las vistas previas por dirección: si se cambia la imagen o
